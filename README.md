@@ -1,4 +1,6 @@
 ### Hi there 👋
+Learning about Github and learnt about how pushing, commit and pull requests works
+Still confused about how repositries function entirely with stuff like branches, but plan to learn more there
 
 <!--
 **MarkusCasius/MarkusCasius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
